@@ -1,2 +1,2 @@
 # kira
-yes yes yes 
+print("hi") 
